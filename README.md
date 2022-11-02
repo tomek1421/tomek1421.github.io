@@ -1,8 +1,8 @@
-# Witaj na stronie 
+# Witaj na stronie :fire:
 paragraf 1 \
 paragraf 2 \
 paragraf 3 
-# Tabela
+**Tabela**
 |lewa|środek|prawa|
 |:-:|:-:|:-:|
 |a|b|c|
