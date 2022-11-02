@@ -10,7 +10,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 |lewa|środek|prawa|
 |:-: |:-:   |:-:  |
 |a   |b     |c    |
-|raz |dwa    |trzy |
+|raz |dwa   |trzy |
 
 
 ![pociag.jpg](pociag.jpg)
