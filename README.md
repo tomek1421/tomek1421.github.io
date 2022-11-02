@@ -8,6 +8,7 @@ paragraf 3
 |a|b|c|
 |raz|dwa|trzy|
 |:sleeping:|:alien:|:imp:|
+
 ![pociag.jpg](pociag.jpg)
 
 
