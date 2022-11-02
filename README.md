@@ -8,10 +8,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 **Tabela**
 |lewa|środek|prawa|
-|:-:|:-:|:-:|
-|a|b|c|
-|raz|dwa|trzy|
-|:sleeping:|:alien:|:imp:|
+|:-: |:-:   |:-:  |
+|a   |b     |c    |
+|raz |dwa    |trzy |
+
 
 ![pociag.jpg](pociag.jpg)
 
