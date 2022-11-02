@@ -1,4 +1,4 @@
-# Witaj na stronie :fire:
+# Witaj na stronie :wave:
 paragraf 1 \
 paragraf 2 \
 paragraf 3 
