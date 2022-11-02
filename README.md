@@ -16,7 +16,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 ![pociag.jpg](pociag.jpg)
 
 **Linki**
-* [nagłówek](#witaj-na-stronie)
-* [link](https://www.youtube.com/)
+* [na góre](#witaj-na-stronie)
+* [github](https://github.com/)
   
 
