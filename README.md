@@ -13,7 +13,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 |raz |dwa   |trzy |
 
 
-![pociag.jpg](pociag.jpg)
+![pociag.jpg](pociag.jpg){.center}
 
 **Linki**
 * [na góre](#witaj-na-stronie)
