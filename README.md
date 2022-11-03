@@ -19,5 +19,18 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 * [na góre](#witaj-na-stronie)
 * [github](https://github.com/)
 
-<p class="red">red text</p>
+Heading Identifiers:
+### Red text title {#identifier .red}
+
+Fenced Code Attributes:
+{.red .numberLines startFrom="1"}
+
+Inline Code Attributes:
+`red text`{.red}
+
+Bracketed Spans:
+[This is *some red text*]{.red}
+
+Link Attributes:
+![alt text](the.jpg){.center}
 
